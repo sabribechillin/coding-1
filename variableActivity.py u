@@ -1,0 +1,49 @@
+variables- a container that stores data.
+you can name your container almost anything,
+you want, so long as it is descriptive.
+variables cannot be a phython keyword
+ac=1.00
+variables with multiple words do not have spaces.
+
+
+apple=1.00
+orange=1.65
+user "n kimble"
+ja3 sneakers
++
+42douglas-"
+21 savage-"
+apple store
+as3- 
+applesATstore= 3
+#studentsActive= 8
+flighinsurrance=true 
+bronzemember=needs more work 
+gold member= helps people 
+silver member= mid
+
+
+
+
+
+
+
+#camel case- when creating variable names with multiple words
+
+
+usernamefornewinstagramaccounts
+usernamefornewinstagramsaccounts
+the reason why its called camel case is bc every new word reprsents bump
+every new word begins with a capital letter.
+snake case- when creating a variable, using underscore symbol to space out each new word. 
+the reason why its called snake case bc the underscore.
+
+
+
+
+
+
+
+
+
+
