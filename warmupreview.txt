@@ -1,0 +1,5 @@
+4 data types we learned is string,floats, boolean,characters.
+A code repository is creating stuff with games or other things. A digital space for stroies and code 
+A computer is output and input because of wikipedia. 
+variable is a whole number
+variable is how we learn to do code.
