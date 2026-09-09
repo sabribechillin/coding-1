@@ -1,0 +1,17 @@
+name= "hyaire"
+grade= 10
+school= true
+
+#Assigment operators- Exclusively used to assign 
+#values to variables
+#think key/values patrings 
+# arithmetic operators- used on numerical
+data types to perform calculations
+intergers(whole numbers)and floats(decimal numbers)
+print(3+3)# addition operators
+print(3.9)-3# subtraction operators
+print(12/3)#division operators
+print(3*4)#multiplication operators
+
+
+
