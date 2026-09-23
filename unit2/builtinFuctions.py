@@ -42,3 +42,6 @@ print("good"+ "bye"
       num1= input(type in a number;'')
       print(4+num1)
 
+#float() - A function that will change any datatype
+#passed into it, into float,/ decimal number
+print(9 + float(num2)
