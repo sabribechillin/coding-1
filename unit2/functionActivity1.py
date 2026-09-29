@@ -1,12 +1,15 @@
-comparing the number 85 and also using input
+# comparing the number 85 and also using input
 
 
 
 
-num1 - input("type in a number:")
+num1= input("type in a number:")
 print(int(num1)>85)
 
-comparing 360
 
-print(360+int(num2)
       
+val= input("type in a number: ")
+print(int(val)+360)
+
+
+val2= "boyslatin"

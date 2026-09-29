@@ -40,5 +40,14 @@ print(parentcontact== or parent contact2== true)
 
 
 
+Name 1 computing input and 1 computing output device that are NOT in the computer lab. 
+
+
+gpa = 89
+credits = 42
+
+
+
+
 
 
