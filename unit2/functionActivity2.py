@@ -13,4 +13,36 @@ def compareValue():
     valB=input()
     print(valA < valB)
 
+compareValue()
+
+
+
+
+
 compareValue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
