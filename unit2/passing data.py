@@ -15,7 +15,7 @@ function parameters- this is place holder data for
 # start with the leeter p.
 
 
-def check_water_depth(depth):
+def check_water_depth(depth):volume, acidic, temperture
     print(depth)
     print (depth)
 
@@ -23,5 +23,19 @@ def check_water_depth(depth):
     #function call.
     #memory trick- if you make a real wolrd argument with a person
     # you need tpo come with facts.
+  
+  
+  
+  
+  
     check _water_depth(23)
+
+
+
+
+def confirmationlogin():
+    name=username
+    print(name)
+
+name= input(:please type in user name:")
           
