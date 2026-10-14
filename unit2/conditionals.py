@@ -28,19 +28,37 @@ print(congrats you meet the requirement for temple u"")
 def ccp():
 print(it looks like you gpa )
 
+def calculator_add();
+print('program has started please type in 2 numbers'
+num1=int(input)
+num2-
+
+
+
+def calculate_add
+def calculate_subtrat
+def calculate_multiply
+def calculate_divide
 
 
 
 
 
+def mainCalculator
+selection=input()
+calculate_add()
+selection
+calculate_subtract():
+selection
+calculate_multiply();
+selection
 
 
 
+calculate_division():
 
-
-
-
-
+print("sorry i dont understand your selction")
+main calculator()
 
 
 
