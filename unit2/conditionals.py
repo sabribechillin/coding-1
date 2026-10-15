@@ -61,7 +61,16 @@ print("sorry i dont understand your selction")
 main calculator()
 
 
-
-
+def ticketsprices():
+print("welcome to the movies.please type in your age")
+age+input()
+if age<7:
+print("your tickets is $8.00")
+elif>+8 and age<+20
+elif if age is 2-
+print("dont bring that baby in here")
+elif
+elif age>=21`and age<=60
+`
 
 
