@@ -39,3 +39,35 @@ attemps+=1
 print(attemps)
 userguess=int(input)("please try another number:"))
 print(congrats! you guessed coreectly. game over)
+
+
+
+#Question 1 
+# password reset function. Your function shoulf take in a 
+# user password as an input.within the function there should be a 
+# variable that contains the correcr password.
+# the user should be able to attempt to enter the password 4 times.
+# On the fourth attempt of getting the password incorrect,
+# it should print out a message telling the user that
+# theiir account has been locked. if the user gets the password
+# correct it should print out a message telling them
+# they can access their account.
+
+
+def(welcome to THE password RESETFUNCTION)
+correctpw=123abc
+userpw=input
+attempt=4
+print("welcome  please  enter   your    login   password;)
+while the  userpw!=correctpw
+print("sorry incorrect pw")
+print("please try again")
+print("welcome you have ACCESS")
+print(number of attemps left:     )
+PWreset()
+
+
+
+
+attempts ==0
+attempts
