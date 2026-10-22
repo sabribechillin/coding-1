@@ -1,0 +1,43 @@
+ B3: Nacho Chips
+ G4: BBQ Chips
+ G7: Plain Chips
+ D3: Water
+ G5:cola soda
+
+def vending_machine():
+    # Store the vending machine items and codes in a dictionary
+    menu = {
+        "B3": "Nacho Chips",
+        "G4": "BBQ Chips",
+        "G7": "Plain Chips",
+        "D3": "Water",
+        "G5": "Cola Soda"
+    }
+    
+    # Start the continuous loop
+    while True:
+        # Prompt the user for input
+        user_input = input("Enter a vending machine code (or 'q' to stop): ").strip()
+        
+        # Check if the user wants to quit
+        if user_input.lower() == 'q':
+            print("Shutting down. Thank you!")
+            break  # This ends the while loop and stops the function
+            
+        # Check if the input exists in our menu
+        if user_input in menu:
+            print(f"Dispensing: {menu[user_input]}")
+        else:
+            print("Invalid code. Please try again.")
+
+# Call the function to run the program
+vending_machine()
+
+
+
+
+
+
+
+
+
