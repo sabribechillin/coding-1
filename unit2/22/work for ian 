@@ -38,6 +38,26 @@ vending_machine()
 
 
 
-
+def dice_rolling_game():
+    score = 0
+    print("Welcome to the Dice Rolling Game!")
+    
+    while True:
+        # Prompt the user to roll or quit
+        choice = input("Enter 'r' to roll or 'q' to quit: ").strip().lower()
+        
+        if choice == 'q':
+            print(f"Thanks for playing! Your final score is: {score}")
+            break
+        elif choice == 'r':
+            # Randomly select a number between 1 and 7
+            roll = random.randint(1, 7)
+            print(f"\nYou rolled a: {roll}")
+            
+            # Game logic based on the roll
+            if roll == 7:
+                score += 10
+                print(f"You win! +10 points. Current score: {score}\n")
+            else:
 
 
