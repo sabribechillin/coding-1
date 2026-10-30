@@ -58,4 +58,32 @@ print (semester\grades)
 
 
 
+#list are collection types for storing multiply piececes of data 
+#key elements and purpsoses for lists:
+#list are organzied and structured.
+#lists can be manipulated and modified.- mutable(means changeable)
+#lists items are accessible and useable
+#when we want access an item in a lists we use the indexinng system 
+#every item in a list is numbered.
+#a lists index alawyas starts at zero(0)
 
+inventory={sword"end,sheiled",healing",potion'",armor}
+
+
+
+print(inventory{0})#indicated im going to first position in the list
+#when we want add an item to our list, we use the append()method.
+inventory.remove("healing potion")
+#inventory.pop(2)
+
+inventory.append(knife)
+print(inventory)
+inventory.pop(2)
+
+
+
+#use a method to remvoe the healing potion
+inventory.append("war hammer"")
+
+#use a method to add a warmhammer to the end of the list.
+#use a method to add a new healing potion to index 4 of the list.
