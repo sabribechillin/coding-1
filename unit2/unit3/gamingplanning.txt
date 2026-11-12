@@ -1,0 +1,14 @@
+The game I want to create will be a dungeon crawler type of game
+# its going to be advertised like a 2d indie game with inspiration from hollowknight.
+# the objective of the game will be to descend into the ancient ruined city
+# that became ovveran by dungeon monsters and to get to the final floor to defeat the boss and end the corruption.
+
+#2. I want the control scheme to be a somehow complex.
+# what I mean by that is I want there to be controls for certain
+# things. for example I want there to be controls for special moves
+# for like combo spells or skills depending on the class you are.
+
+#3.Two game objects I will need are dungeon rooms and like loot chests.
+#Theyre properties are to give the player a challenge and equipment as they
+# descend into the deeper dungeon floors and ruined cities.
+# 3 attributes would be like shining chests, randomized dungeon rooms, randomized chest loot.
